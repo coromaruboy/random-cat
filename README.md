@@ -1,6 +1,6 @@
 # 参考資料
-[サバイバルTypeScript](https://typescriptbook.jp/tutorials/nextjs){:target="_blank"}
+[サバイバルTypeScript](https://typescriptbook.jp/tutorials/nextjs)
 
 # vercelリンク
-[猫画像シミュレータ](https://random-cat-alpha-three.vercel.app/){:target="_blank"}
+[猫画像シミュレータ](https://random-cat-alpha-three.vercel.app/)
 
